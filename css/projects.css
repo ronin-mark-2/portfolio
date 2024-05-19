@@ -1,0 +1,36 @@
+.project-card {
+  /* border: none;
+  background-color: #e7e7e7; */
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 2px solid #e7e7e7;
+}
+
+.project-button-demo {
+  width: 150px;
+  background-color: #e7e7e7;
+  color: #14213d;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: 2px solid #e7e7e7;
+}
+
+.project-button-demo:hover {
+  border: 2px solid #14213d;
+  background-color: #14213d;
+  color: #fff;
+}
+
+.project-button-source {
+  width: 150px;
+  background-color: #e7e7e7;
+  color: #14213d;
+  border: 2px solid #e7e7e7;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.project-button-source:hover {
+  border: 2px solid #14213d;
+}
